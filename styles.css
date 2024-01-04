@@ -38,6 +38,10 @@ section {
     padding: 20px;
 }
 
+section p{
+    text-align: left;
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
