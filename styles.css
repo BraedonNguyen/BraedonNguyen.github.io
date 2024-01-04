@@ -27,7 +27,7 @@ nav a {
     text-decoration: none;
     padding: 15px 20px;
     display: inline-block;
-    text-align: left;
+    text-align: center;
 }
 
 nav a:hover {
@@ -35,11 +35,7 @@ nav a:hover {
 }
 
 section {
-    padding: 20px;
-}
-
-section p{
-    text-align: left;
+    padding: 15px;
 }
 
 footer {
@@ -48,3 +44,44 @@ footer {
     background-color: #333;
     color: white;
 }
+
+#note {
+    text-align: left;
+    font-style: italic;
+    font-size: 10px;
+}
+
+.over {
+    list-style-type: none;
+}
+
+element {
+    font-size: 10px
+}
+
+.nested {
+    text-align: left;
+    font-size: 12px;
+}
+
+.top{
+    font-style: bold;
+    font-size: 20px;
+}
+
+.icon {
+    max-width: 20%;
+}
+
+.column {
+    width: 50%;
+    float: left;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  
