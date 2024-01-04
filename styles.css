@@ -61,7 +61,7 @@ element {
 
 .nested {
     text-align: left;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 .top{
@@ -70,7 +70,7 @@ element {
 }
 
 .icon {
-    max-width: 20%;
+    max-width: 10%;
 }
 
 .column {
@@ -84,4 +84,7 @@ element {
     display: table;
   }
 
+.over {
+    padding: 1%;
+}
   
