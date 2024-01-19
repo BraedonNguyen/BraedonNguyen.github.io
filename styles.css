@@ -87,4 +87,33 @@ element {
 .over {
     padding: 1%;
 }
+
+.csci {
+    width: auto;
+    border: 1px solid rgb(26, 25, 25);
+    background-color: rgb(189, 186, 186);
+    padding: 8px;
+    margin: 10px;
+  }
+
+  .dsci {
+    width: auto;
+    border: 1px solid rgb(26, 25, 25);
+    padding: 8px;
+    margin: 10px;
+  }
+
+  .math {
+    width: auto;
+    border: 1px solid rgb(26, 25, 25);
+    background-color: rgb(189, 186, 186);
+    padding: 8px;
+    margin: 10px;
+  }
   
+  .sci {
+    width: auto;
+    border: 1px solid rgb(26, 25, 25);
+    padding: 8px;
+    margin: 10px;
+  }
